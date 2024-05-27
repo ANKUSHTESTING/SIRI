@@ -10,6 +10,7 @@ public class Gun {//business logic layer
 		public void shoot() {
 			for(int i=1;i<=numberofbullets;i++) {
 			System.out.println("dDUSHOM");
+				System.out.println("hello mam this is my first commit github")
 			}
 		
 	}
